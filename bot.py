@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import json
 import requests
+import os
 
 client = commands.Bot(command_prefix="!")
 
